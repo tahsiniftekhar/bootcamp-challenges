@@ -1,0 +1,1 @@
+###This is collection of jQuery challenges. Some challenges may require HTML, CSS, Javascript knowledge

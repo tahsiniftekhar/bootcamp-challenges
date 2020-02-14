@@ -1,0 +1,1 @@
+###This is collection of Javascript challenges. Some challenges may require HTML, CSS knowledge
